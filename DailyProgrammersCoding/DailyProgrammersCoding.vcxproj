@@ -138,11 +138,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="hIndex.cpp" />
     <ClCompile Include="indexK.cpp" />
     <ClCompile Include="largestNum.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="hIndex.h" />
     <ClInclude Include="indexK.h" />
     <ClInclude Include="largestNum.h" />
   </ItemGroup>
