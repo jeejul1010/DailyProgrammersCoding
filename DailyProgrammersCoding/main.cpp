@@ -5,8 +5,8 @@
 
 int main()
 {
-	indexKMain();
+	//indexKMain();
 	//largestNum({ 3, 30, 34, 5, 9 });
-	//hIndex();
+	hIndex();
 	return 0;
 }
