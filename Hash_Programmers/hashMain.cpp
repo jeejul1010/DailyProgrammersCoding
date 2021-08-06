@@ -1,7 +1,9 @@
 #include "unfinishedRunner.h"
+#include "phonenumList.h"
 
 int main()
 {
-	unfinishedRunner();
+	//unfinishedRunner();
+	phonenumList();
 	return 0;
 }

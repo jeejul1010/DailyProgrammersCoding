@@ -139,9 +139,11 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="hashMain.cpp" />
+    <ClCompile Include="phonenumList.cpp" />
     <ClCompile Include="unfinishedRunner.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="phonenumList.h" />
     <ClInclude Include="unfinishedRunner.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
