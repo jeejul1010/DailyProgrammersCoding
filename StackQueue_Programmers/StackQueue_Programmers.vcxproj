@@ -139,10 +139,12 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="functionDevelopment.cpp" />
+    <ClCompile Include="printer.cpp" />
     <ClCompile Include="stackqueueMain.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="functionDevelopment.h" />
+    <ClInclude Include="printer.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
