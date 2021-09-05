@@ -15,33 +15,15 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="dfsbfsMain.cpp">
+    <ClCompile Include="spicier.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="network.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="targetNum.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="travelPath.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="wordChange.cpp">
+    <ClCompile Include="heapMain.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="network.h">
-      <Filter>헤더 파일</Filter>
-    </ClInclude>
-    <ClInclude Include="targetNum.h">
-      <Filter>헤더 파일</Filter>
-    </ClInclude>
-    <ClInclude Include="travelPath.h">
-      <Filter>헤더 파일</Filter>
-    </ClInclude>
-    <ClInclude Include="wordChange.h">
+    <ClInclude Include="spicier.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>

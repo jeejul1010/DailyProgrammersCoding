@@ -20,10 +20,9 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
-    <ProjectGuid>{02D19AF3-14EC-4672-AAB7-328ED51569E6}</ProjectGuid>
-    <RootNamespace>DFSBFSprogrammers</RootNamespace>
+    <ProjectGuid>{5F1081C0-7680-48B9-9101-ADA59B848686}</ProjectGuid>
+    <RootNamespace>HeapProgrammers</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>DFSBFS_Programmers</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -139,17 +138,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="dfsbfsMain.cpp" />
-    <ClCompile Include="network.cpp" />
-    <ClCompile Include="targetNum.cpp" />
-    <ClCompile Include="travelPath.cpp" />
-    <ClCompile Include="wordChange.cpp" />
+    <ClCompile Include="heapMain.cpp" />
+    <ClCompile Include="spicier.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="network.h" />
-    <ClInclude Include="targetNum.h" />
-    <ClInclude Include="travelPath.h" />
-    <ClInclude Include="wordChange.h" />
+    <ClInclude Include="spicier.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
