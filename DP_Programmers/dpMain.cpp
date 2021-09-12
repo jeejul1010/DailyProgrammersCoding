@@ -1,6 +1,8 @@
 #include "integerTriangle.h"
+#include "nExpression.h"
 
 int main() {
-	integerTriangle();
+	//integerTriangle();
+	nExpression();
 	return 0;
 }
