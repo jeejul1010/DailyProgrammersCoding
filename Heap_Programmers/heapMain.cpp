@@ -1,6 +1,8 @@
 #include "spicier.h"
+#include "diskController.h"
 
 int main() {
-	spicier();
+	//spicier();
+	diskController();
 	return 0;
 }

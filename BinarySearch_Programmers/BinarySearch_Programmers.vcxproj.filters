@@ -15,21 +15,15 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="spicier.cpp">
+    <ClCompile Include="immigration.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="heapMain.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="diskController.cpp">
+    <ClCompile Include="binarySearchMain.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="spicier.h">
-      <Filter>헤더 파일</Filter>
-    </ClInclude>
-    <ClInclude Include="diskController.h">
+    <ClInclude Include="immigration.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>

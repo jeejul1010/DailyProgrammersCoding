@@ -20,8 +20,8 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
-    <ProjectGuid>{5F1081C0-7680-48B9-9101-ADA59B848686}</ProjectGuid>
-    <RootNamespace>HeapProgrammers</RootNamespace>
+    <ProjectGuid>{2497953E-9C61-46CD-BC4C-8480B8A7D48F}</ProjectGuid>
+    <RootNamespace>BinarySearchProgrammers</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -138,13 +138,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="diskController.cpp" />
-    <ClCompile Include="heapMain.cpp" />
-    <ClCompile Include="spicier.cpp" />
+    <ClCompile Include="binarySearchMain.cpp" />
+    <ClCompile Include="immigration.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="diskController.h" />
-    <ClInclude Include="spicier.h" />
+    <ClInclude Include="immigration.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
