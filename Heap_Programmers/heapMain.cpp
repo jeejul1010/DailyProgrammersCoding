@@ -1,8 +1,10 @@
 #include "spicier.h"
 #include "diskController.h"
+#include "dualPriorityQueue.h"
 
 int main() {
 	//spicier();
-	diskController();
+	//diskController();
+	dualPriorityQueue();
 	return 0;
 }

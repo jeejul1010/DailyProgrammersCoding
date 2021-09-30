@@ -24,12 +24,18 @@
     <ClCompile Include="diskController.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="dualPriorityQueue.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="spicier.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
     <ClInclude Include="diskController.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="dualPriorityQueue.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>

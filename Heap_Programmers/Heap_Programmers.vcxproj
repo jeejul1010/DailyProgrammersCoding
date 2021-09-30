@@ -139,11 +139,13 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="diskController.cpp" />
+    <ClCompile Include="dualPriorityQueue.cpp" />
     <ClCompile Include="heapMain.cpp" />
     <ClCompile Include="spicier.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="diskController.h" />
+    <ClInclude Include="dualPriorityQueue.h" />
     <ClInclude Include="spicier.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
