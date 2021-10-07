@@ -141,10 +141,12 @@
     <ClCompile Include="dpMain.cpp" />
     <ClCompile Include="integerTriangle.cpp" />
     <ClCompile Include="nExpression.cpp" />
+    <ClCompile Include="wayToSchool.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="integerTriangle.h" />
     <ClInclude Include="nExpression.h" />
+    <ClInclude Include="wayToSchool.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

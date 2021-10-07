@@ -24,12 +24,18 @@
     <ClCompile Include="nExpression.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="wayToSchool.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="integerTriangle.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
     <ClInclude Include="nExpression.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="wayToSchool.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>
