@@ -138,11 +138,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="bestAlbum.cpp" />
+    <ClCompile Include="disguise.cpp" />
     <ClCompile Include="hashMain.cpp" />
     <ClCompile Include="phonenumList.cpp" />
     <ClCompile Include="unfinishedRunner.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="bestAlbum.h" />
+    <ClInclude Include="disguise.h" />
     <ClInclude Include="phonenumList.h" />
     <ClInclude Include="unfinishedRunner.h" />
   </ItemGroup>

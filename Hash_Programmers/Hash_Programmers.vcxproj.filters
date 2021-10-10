@@ -24,12 +24,24 @@
     <ClCompile Include="phonenumList.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="disguise.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="bestAlbum.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="unfinishedRunner.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
     <ClInclude Include="phonenumList.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="disguise.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="bestAlbum.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>
