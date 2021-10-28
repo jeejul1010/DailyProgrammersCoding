@@ -142,11 +142,13 @@
     <ClCompile Include="gymClothes.cpp" />
     <ClCompile Include="joystick.cpp" />
     <ClCompile Include="largestNum.cpp" />
+    <ClCompile Include="lifesaver.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="gymClothes.h" />
     <ClInclude Include="joystick.h" />
     <ClInclude Include="largestNum.h" />
+    <ClInclude Include="lifesaver.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
