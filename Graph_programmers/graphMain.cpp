@@ -1,7 +1,9 @@
 #include "farthestNode.h"
+#include "ranking.h"
 
 int main()
 {
-	farthestNode();
+	//farthestNode();
+	ranking();
 	return 0;
 }

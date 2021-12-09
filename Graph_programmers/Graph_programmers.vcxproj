@@ -141,9 +141,11 @@
   <ItemGroup>
     <ClCompile Include="farthestNode.cpp" />
     <ClCompile Include="graphMain.cpp" />
+    <ClCompile Include="ranking.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="farthestNode.h" />
+    <ClInclude Include="ranking.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
