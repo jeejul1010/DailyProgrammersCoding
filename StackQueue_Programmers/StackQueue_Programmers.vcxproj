@@ -138,11 +138,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="bridgeTruck.cpp" />
     <ClCompile Include="functionDevelopment.cpp" />
     <ClCompile Include="printer.cpp" />
     <ClCompile Include="stackqueueMain.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="bridgeTruck.h" />
     <ClInclude Include="functionDevelopment.h" />
     <ClInclude Include="printer.h" />
   </ItemGroup>
