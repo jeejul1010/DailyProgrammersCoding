@@ -140,12 +140,14 @@
   <ItemGroup>
     <ClCompile Include="greedyMain.cpp" />
     <ClCompile Include="gymClothes.cpp" />
+    <ClCompile Include="islandConnection.cpp" />
     <ClCompile Include="joystick.cpp" />
     <ClCompile Include="largestNum.cpp" />
     <ClCompile Include="lifesaver.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="gymClothes.h" />
+    <ClInclude Include="islandConnection.h" />
     <ClInclude Include="joystick.h" />
     <ClInclude Include="largestNum.h" />
     <ClInclude Include="lifesaver.h" />
