@@ -3,6 +3,7 @@
 #include "largestNum.h"
 #include "lifesaver.h"
 #include "islandConnection.h"
+#include "speedCamera.h"
 
 int main()
 {
@@ -10,6 +11,7 @@ int main()
 	//gymClothes();
 	//largestNum();
 	//lifesaver();
-	islandConnection();
+	//islandConnection();
+	speedCamera();
 	return 0;
 }
