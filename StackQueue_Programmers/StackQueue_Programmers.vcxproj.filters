@@ -27,6 +27,9 @@
     <ClCompile Include="bridgeTruck.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="stockPrice.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="functionDevelopment.h">
@@ -36,6 +39,9 @@
       <Filter>헤더 파일</Filter>
     </ClInclude>
     <ClInclude Include="bridgeTruck.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="stockPrice.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>
