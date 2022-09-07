@@ -30,6 +30,12 @@
     <ClCompile Include="wordChange.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="gameMapShortest.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="gameMapShortestBFS.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="network.h">
@@ -42,6 +48,12 @@
       <Filter>헤더 파일</Filter>
     </ClInclude>
     <ClInclude Include="wordChange.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="gameMapShortest.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="gameMapShortestBFS.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>
